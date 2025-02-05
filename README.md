@@ -6,11 +6,11 @@
 Features
 🔄 Intuitive Controls:
 
-⬅️ Left Arrow: Play the previous Surah
-➡️ Right Arrow: Play the next Surah
-⬆️ Up Arrow: Pause playback
-⬇️ Down Arrow: Resume playback
-🛑 Press q: Exit playlist and return to the menu
+⬅️ Left Arrow: Play the previous Surah.
+➡️ Right Arrow: Play the next Surah.
+⬆️ Up Arrow: Pause playback.
+⬇️ Down Arrow: Resume playback.
+🛑 Press q: Exit playlist and return to the menu.
 📂 Playlist Management:
 Displays Surahs dynamically by passing the playlist name for better customization and usability.
 
