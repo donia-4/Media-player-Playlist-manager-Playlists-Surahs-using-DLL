@@ -17,22 +17,23 @@ Surahs can be dynamically added, removed, and displayed based on playlist names.
 Structured Menu Design:
 
 User-friendly interface with clear navigation and responsive feedback.
+
 🛠 Technology Stack
-Programming Language:
-
-Core Concepts:
-
-Data Structures: Doubly Linked Lists (DLL).
-Algorithms: Efficient traversal and playback management.
+  Programming Language: C++
+  Core Concepts:
+      Data Structures: Doubly Linked Lists (DLL).
+      Algorithms: Efficient traversal and playback management.
+      
 Libraries Used:
-
-fstream: For file input/output to handle playlists and Surah data.
-SFML (Simple and Fast Multimedia Library): For smooth playback and graphical enhancements.
+  1)fstream: For file input/output to handle playlists and Surah data.
+  2)SFML (Simple and Fast Multimedia Library): For smooth playback and graphical enhancements.
+  
 💡 Highlights
-Robustly developed with structured programming principles.
-Implements DLL for efficient and dynamic playlist navigation.
-Smooth playback transitions powered by SFML.
-Effective file handling with fstream for playlist persistence.
+  Robustly developed with structured programming principles.
+  Implements DLL for efficient and dynamic playlist navigation.
+  Smooth playback transitions powered by SFML.
+  Effective file handling with fstream for playlist persistence.
+  
 📞 Contact
 If you have questions or would like to contribute, feel free to connect with me:
 
