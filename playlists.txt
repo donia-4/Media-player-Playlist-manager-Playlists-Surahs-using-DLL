@@ -1,0 +1,16 @@
+Fares_Abbad
+AlAnbia|makia|D:\\DS projects\\playlist_manager\\playlist manager\\AlAnbia_fares.wav
+Al-Mu'minun|makia|D:\\DS projects\\playlist_manager\\playlist manager\\Al-Muminun_fares.wav
+END
+Mahmoud_Ali_ElBana
+Ar-Rahman|makai|D:\\DS projects\\playlist_manager\\playlist manager\\Ar-Rahman_Albana.wav
+Al-Hajj|Madania|D:\\DS projects\\playlist_manager\\playlist manager\\Al-Hajj_Albanaa.wav
+END
+Islam_Sophy
+maryam|makai|D:\\DS projects\\playlist_manager\\playlist manager\\maryam_islam.wav
+Ar-Rahman|makia|D:\\DS projects\\playlist_manager\\playlist manager\\Ar-Rahman_islam.wav
+END
+ElMenshawy
+Al-Mulk|makia|D:\\DS projects\\playlist_manager\\playlist manager\\Al-Mulk_Elmenshawy.wav
+As-Sajda|makia|D:\\DS projects\\playlist_manager\\playlist manager\\As-Sajda_Elmenshawy.wav
+END

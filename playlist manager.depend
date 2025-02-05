@@ -1,0 +1,255 @@
+# depslib dependency file v1.0
+1732209409 source:d:\ds projects\playlist_manager\playlist manager\dll.cpp
+	"DLL.h"
+
+1734599807 d:\ds projects\playlist_manager\playlist manager\dll.h
+	<iostream>
+	<cassert>
+	<climits>
+	<vector>
+	<algorithm>
+
+1733347663 source:d:\ds projects\playlist_manager\playlist manager\main.cpp
+	<iostream>
+	<cstdlib>
+	<SFML/Audio.hpp>
+	<conio.h>
+	<fstream>
+	<string>
+	<iomanip>
+	<sstream>
+	"DLL.h"
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio.hpp
+	<SFML/System.hpp>
+	<SFML/Audio/InputSoundFile.hpp>
+	<SFML/Audio/Listener.hpp>
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/OutputSoundFile.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundBufferRecorder.hpp>
+	<SFML/Audio/SoundFileFactory.hpp>
+	<SFML/Audio/SoundFileReader.hpp>
+	<SFML/Audio/SoundFileWriter.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/Audio/SoundStream.hpp>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\utf.inl
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\string.inl
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\thread.inl
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\threadlocalptr.inl
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\vector2.inl
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1714272611 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\system\vector3.inl
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\inputsoundfile.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<algorithm>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\export.hpp
+	<SFML/Config.hpp>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\listener.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\music.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundStream.hpp>
+	<SFML/Audio/InputSoundFile.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\soundstream.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Mutex.hpp>
+	<cstdlib>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\soundsource.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Vector3.hpp>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\alresource.hpp
+	<SFML/Audio/Export.hpp>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\outputsoundfile.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<string>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\sound.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\soundbuffer.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+	<set>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\soundbufferrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<vector>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\soundrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<vector>
+	<string>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\soundfilefactory.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+	<vector>
+	<SFML/Audio/SoundFileFactory.inl>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\soundfilefactory.inl
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\soundfilereader.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+
+1714272609 d:\ds projects\playlist_manager\playlist manager\sfml\include\sfml\audio\soundfilewriter.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+
+1732209409 source:c:\users\lap shop\onedrive\desktop\playlist_manager\playlist manager\dll.cpp
+	"DLL.h"
+
+1733313045 c:\users\lap shop\onedrive\desktop\playlist_manager\playlist manager\dll.h
+	<iostream>
+	<cassert>
+	<climits>
+	<vector>
+	<algorithm>
+
